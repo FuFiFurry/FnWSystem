@@ -1,4 +1,4 @@
-# Fox'n Wolf Modding RP Framework
+# Fox'n Wolf System RP Framework
 
 A modular core framework for Roblox, inspired by ESX.
 
