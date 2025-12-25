@@ -1,7 +1,9 @@
-local VulpesFramework = {}
 local Config = require(script.config)
 
-function VulpesFramework.init()
+local VulpesFramework = {}
+VulpesFramework.__index = VulpesFramework
+
+function VulpesFramework:Init()
 	print("VulpesFramework initialing...")
 	-- Initialize plugins
 	for pluginName, isEnabled in pairs(Config.plugins) do

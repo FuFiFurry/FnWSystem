@@ -1,0 +1,3 @@
+local playerHandler = {}
+
+return playerHandler

@@ -1,8 +1,9 @@
-local FVTeams = {}
+local FVChar = {}
 local Config = require(script.config)
 local DataStoreHandler = require(script.Parent.Parent.Module.datastoreHandler)
+local Player = game:GetService("Players")
 
-function FVTeams.init()
+function FVChar.init()
 	local succes = true
 	if succes then
 		return true
@@ -10,4 +11,4 @@ function FVTeams.init()
 		return false
 	end
 end
-return FVTeams
+return FVChar

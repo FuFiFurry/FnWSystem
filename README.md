@@ -1,4 +1,4 @@
-# Fox'n Wolf System Vulpes Framework
+# Fox'n Wolf Systems Vulpes Framework
 
 A modular core framework for Roblox, inspired by ESX.
 
