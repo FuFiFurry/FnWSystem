@@ -1,7 +1,7 @@
-local FnWTeams = {}
+local FVTeams = {}
 local Config = require(script.config)
 
-function FnWTeams.init()
+function FVTeams.init()
 	local succes = true
 	if succes then
 		return true
@@ -9,4 +9,4 @@ function FnWTeams.init()
 		return false
 	end
 end
-return FnWTeams
+return FVTeams

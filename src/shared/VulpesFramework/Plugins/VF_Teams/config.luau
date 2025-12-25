@@ -1,7 +1,7 @@
 local config = {}
 
 config.info = {
-	name = "FnW_Teams",
+	name = "FV_Teams",
 	version = "0.0.1",
 	author = "FuFi & FnW Systems",
 }

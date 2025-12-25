@@ -1,8 +1,8 @@
-local FnWSystem = {}
+local VulpesFramework = {}
 local Config = require(script.config)
 
-function FnWSystem.init()
-	print("FnWSystem initialing...")
+function VulpesFramework.init()
+	print("VulpesFramework initialing...")
 	-- Initialize plugins
 	for pluginName, isEnabled in pairs(Config.plugins) do
 		if isEnabled then
@@ -17,4 +17,4 @@ function FnWSystem.init()
 	end
 end
 
-return FnWSystem
+return VulpesFramework
