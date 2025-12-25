@@ -14,6 +14,6 @@ config.info = {
     Some Plugins are pre-installed and only need to be enabled here
 ]]
 
-config.plugins = { VF_Teams = true, VF_Char = true }
+config.addons = { VF_Jobs = true, VF_Char = true }
 
 return config
