@@ -1,15 +1,15 @@
 # Fox'n Wolf Systems Vulpes Framework
 
-A modular core framework for Roblox, inspired by ESX.
+> [!WARNING]
+> This project is in early stage of development.
+> The use of it in the current state is NOT recomended.
 
-## Purpose
-This project should provide a clean, modular foundation for RP games in Roblox such as character creation, identity, inventory, and jobs.
+# Overview
+- [What is VF?](#what-is-vf)
+- [What Features will be in VF?](#what-features-will-be-in-vf)
 
-## Core Principles
-* Modular
-* Easy to handle
-* Replaceable systems
-* Long-term maintainability
+# What is VF?
+Vulpes Framework(VF for short) is a modular core Framework for Roblox inspired by [ESX](https://www.esx-framework.org/). It should allow Develoeprs to easily setup Roleplay Games and add Plugins like Characters, Money or Jobs. The Framework it self is Modular and Open-Source.
 
-## Status
-Early in development. Currently not useable.
+# What Features will be in VF?
+TBC
